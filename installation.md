@@ -16,4 +16,6 @@ To get the tab view button and interface like IE, install [Tip Tab](https://addo
 
 ## UI Configuration
 After installation, right click on the tabs toolbar and press "Customize Toolbar". Here is a guide to help you:![guide](https://user-images.githubusercontent.com/65573067/214430433-2b04e496-a6db-4cad-80e3-62afe7eb4c5e.png)
-**Make sure to enable Title Bar and set the Bookmarks Toolbar to "Always Show."**
+**Make sure to enable Title Bar and set the Bookmarks Toolbar to "Always Show."**  
+
+**Want to configure the branding and other minor tweaks? Go to the [Extras](https://github.com/NWinXP/Aerofox/blob/main/extras.md) page to read more.**
