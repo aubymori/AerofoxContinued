@@ -21,8 +21,8 @@ No support is planned for Windows 10 and 11.**
 - Windows 8.1 x64  
 
 ## Screenshots
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Will add later
+Windows 8.1 with Aero Glass DWM hack
+![](https://github.com/NWinXP/Aerofox/blob/main/images/ScreenshotW8.1.png)
 
 ## Download
 Go to the [releases](https://github.com/NWinXP/Aerofox/releases "releases") page and download the linked .ZIP file.
