@@ -41,4 +41,4 @@ Read [extras.md](https://github.com/NWinXP/Aerofox/blob/main/extras.md "extras.m
 You are free to do whatever you want with this theme, it's freely available after all!
 
 ###### Internet Explorer is a trademark of Microsoft Corporation. All assets from Internet Explorer used in this project belong to Microsoft Corporation.    
-###### Firefox and the Firefox logo is are trademarks of the Mozilla Foundation.
+###### Firefox and the Firefox logo are trademarks of the Mozilla Foundation.
