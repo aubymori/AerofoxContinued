@@ -9,6 +9,7 @@ After restarting, you're going to need to go to about:config and enable these fl
 - svg.context-properties.content.enabled - set to true
 - ui.prefersReducedMotion - set to 1, you may need to create a new "Number" value
 - widget.non-native-theme.enabled - set to false,  
+- extensions.unifiedExtensions.enabled - set to false, 109+ only,
 
 then restart Firefox.
 
