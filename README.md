@@ -3,7 +3,7 @@
 </p>
 
 ---
-Aerofox is a userchrome.css modification that (almost) pixel-perfectly replicates the look and feel of Internet Explorer version 8 (which shipped with Windows 7) on Firefox 108. (Untested on 109+, but it should work)
+Aerofox is a userchrome.css modification that (almost) pixel-perfectly replicates the look and feel of Internet Explorer version 8 (which shipped with Windows 7) on Firefox 108+.
 
 Reminder that the code is very, VERY messy. Things **WILL** break with newer Firefox releases.
 
