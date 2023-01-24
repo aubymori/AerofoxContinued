@@ -36,8 +36,8 @@ Additionally, I prefer the aesthetics of Internet Explorer 8 and Windows Aero ov
 - **How do I install it?**  
 Read [installation.md](https://github.com/NWinXP/Aerofox/blob/main/installation.md "installation.md") for detailed installation instructions.
 - **How did you change the Firefox branding? How can I get navigation sounds and other miscellaneous tweaks?**  
-Read [extras.md](https://github.com/NWinXP/Aerofox/blob/main/extras.md "extras.md") for some extra tweaks and cool stuff, and instructions on how to edit the contents of omni.ja's strings.
--**Can I modify it?**  
+Read [extras.md](https://github.com/NWinXP/Aerofox/blob/main/extras.md "extras.md") for some extra tweaks and cool stuff, and instructions on how to edit the contents of omni.ja's strings.  
+- **Can I modify it?**  
 You are free to do whatever you want with this theme, it's freely available after all!
 
 ###### Internet Explorer is a trademark of Microsoft Corporation. All assets from Internet Explorer used in this project belong to Microsoft Corporation.    
