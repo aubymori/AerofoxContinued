@@ -24,12 +24,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Go to the [releases](https://github.com/NWinXP/Aerofox/releases "releases") page and download the linked .ZIP file.
 
 ## FAQ
-**1. Why would anyone want to make/use this? What is wrong with you?**
+- **Why would anyone want to make/use this? What is wrong with you?**  
 I made this for fun, to see how similar I could make Firefox look like an old version of Internet Explorer. 
 Additionally, I prefer the aesthetics of Internet Explorer 8 and Windows Aero over current design trends.
-**2. How do I install it?**
+- **How do I install it?**  
 Read [installation.md](https://github.com/NWinXP/Aerofox/blob/main/installation.md "installation.md") for detailed installation instructions.
-**3. How did you change the Firefox branding? How can I get navigation sounds and other miscellaneous tweaks?**
+- **How did you change the Firefox branding? How can I get navigation sounds and other miscellaneous tweaks?**  
 Read [extras.md](https://github.com/NWinXP/Aerofox/blob/main/extras.md "extras.md") for some extra tweaks and cool stuff, and instructions on how to edit the contents of omni.ja's strings.
-**4. Can I modify it?**
+-**Can I modify it?**  
 You are free to do whatever you want with this theme, it's freely available after all!
