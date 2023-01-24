@@ -1,2 +1,35 @@
 # Aerofox
-A userchrome.css modification to make Firefox v108 look like Microsoft's Internet Explorer 8 (Aero)
+Aerofox is a userchrome.css modification that (almost) pixel-perfectly replicates the look and feel of Internet Explorer version 8 (which shipped with Windows 7) on Firefox 108. (Untested on 109+)
+
+Based on and inspired by 07Fox, the work of travis on the WinClassic forums, go check out his amazing theme over [here](https://winclassic.boards.net/thread/1524/07fox-internet-explorer-mozilla-firefox "here")!
+
+## Supported operating systems
+While you may be able to use the theme on macOS, Linux, and BSD, it will not function as intended. This theme was coded ONLY for the built-in Aero style under Windows Vista, 7, and 8.x. Other themes or operating systems may cause the theme not to display as intended.
+**Windows 10 is untested and may not be compatible.
+No support is planned for Windows 10 and 11.**
+
+**Tested on:**
+Windows Vista SP2 x64 (with Extended Kernel by win32)
+Windows 7 SP1 x64
+Windows 8.0 x64
+Windows 8.0 x64 with Aero Glass DWM hack
+Windows 8.1 x64 with Aero Glass DWM hack
+Windows 8.1 x64
+
+## Screenshots
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- Will add later
+
+## Download
+Go to the [releases](https://github.com/NWinXP/Aerofox/releases "releases") page and download the linked .ZIP file.
+
+## FAQ
+**1. Why would anyone want to make/use this? What is wrong with you?**
+I made this for fun, to see how similar I could make Firefox look like an old version of Internet Explorer. 
+Additionally, I prefer the aesthetics of Internet Explorer 8 and Windows Aero over current design trends.
+**2. How do I install it?**
+Read [installation.md](https://github.com/NWinXP/Aerofox/blob/main/installation.md "installation.md") for detailed installation instructions.
+**3. How did you change the Firefox branding? How can I get navigation sounds and other miscellaneous tweaks?**
+Read [extras.md](https://github.com/NWinXP/Aerofox/blob/main/extras.md "extras.md") for some extra tweaks and cool stuff, and instructions on how to edit the contents of omni.ja's strings.
+**4. Can I modify it?**
+You are free to do whatever you want with this theme, it's freely available after all!
