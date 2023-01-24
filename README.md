@@ -27,6 +27,10 @@ No support is planned for Windows 11, either.**
 ## Screenshots
 Windows 8.1 with Aero Glass DWM hack
 ![](https://github.com/NWinXP/Aerofox/blob/main/images/ScreenshotW8.1.png)
+Windows 7 with Aero Basic theme (DWM off)
+![](https://user-images.githubusercontent.com/65573067/214447822-999de0a3-98cd-4eef-88d0-5a8edee1fc79.png)
+
+
 
 ## Download
 Go to the [releases](https://github.com/NWinXP/Aerofox/releases "releases") page and download the linked .ZIP file.
