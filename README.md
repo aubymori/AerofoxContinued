@@ -1,4 +1,8 @@
-# Aerofox
+<p align="center">
+  <img src="https://github.com/NWinXP/Aerofox/blob/main/images/aerofox_project_logo-small.png" />
+</p>
+
+---
 Aerofox is a userchrome.css modification that (almost) pixel-perfectly replicates the look and feel of Internet Explorer version 8 (which shipped with Windows 7) on Firefox 108. (Untested on 109+, but it should work)
 
 Based on and inspired by 07Fox, the work of travis on the WinClassic forums, go check out his amazing theme over [here](https://winclassic.boards.net/thread/1524/07fox-internet-explorer-mozilla-firefox "here")!
@@ -34,4 +38,5 @@ Read [extras.md](https://github.com/NWinXP/Aerofox/blob/main/extras.md "extras.m
 -**Can I modify it?**  
 You are free to do whatever you want with this theme, it's freely available after all!
 
-###### Internet Explorer is a trademark of Microsoft Corporation. All assets from Internet Explorer used in this project belong to Microsoft Corporation.
+###### Internet Explorer is a trademark of Microsoft Corporation. All assets from Internet Explorer used in this project belong to Microsoft Corporation.    
+###### Firefox and the Firefox logo is are trademarks of the Mozilla Foundation.
