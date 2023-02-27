@@ -988,8 +988,10 @@ toolbar:not(#TabsToolbar) #new-tab-button > .toolbarbutton-icon,
 }
 
 /* Status Bar */
-#statuspanel[inactive],
-#statuspanel {
+
+#statuspanel,
+#statuspanel[inactive]
+{
 	opacity: 1 !important;
 	visibility: visible !important;
 	max-width: 100% !important;
@@ -997,49 +999,42 @@ toolbar:not(#TabsToolbar) #new-tab-button > .toolbarbutton-icon,
 	height: 22px !important;
 	-moz-appearance: statusbar !important;
 	padding-top: 0 !important;
-	padding-inline: 6px !important;
+	padding-inline: 2px !important;
 	display: flex !important;
 	align-items: center !important;
 	position: absolute !important;
 	bottom: 0 !important;
 }
 
-:root[sizemode="fullscreen"] #statuspanel {
-  display: none !important;
-}
-
-#statuspanel::after {
-	content: '';
-	display: block;
-	-moz-appearance: resizer !important;
-	position: absolute !important;
-	right: 0 !important;
-	bottom: 0 !important;
-}
-
-#statuspanel[inactive]::before {
-	content: 'Done' !important;
-}
-
-#statuspanel[inactive] #statuspanel-label::before {
-	opacity: 0 !important;
-	visibility: collapse !important;
-}
-
-#statuspanel-label::before {
-	transform: translateY(3px) !important;
-}
-
-#statuspanel-label {
+#statuspanel-label
+{
 	-moz-appearance: statusbarpanel !important;
 	background-color: transparent !important;
 	border: 0 !important;
-	padding: 0 !important;
+	padding: 3px 0 !important;
 	margin-inline: 0 !important;
 	height: 22px !important;
 	width: 100% !important;
 	margin-right: 10px !important;
+	color: #000 !important;
+}
+
+#statuspanel[inactive] #statuspanel-label
+{
 	display: none !important;
+}
+
+#statuspanel[inactive][type="defaultStatus"][previoustype="status"]::before
+{
+	content: "Done";
+	-moz-appearance: statusbarpanel !important;
+	width: 100%;
+	line-height: 9px;
+	height: 9px;
+	color: #000 !important;
+	position: absolute;
+	top: 6px;
+	left: 2px;
 }
 
 :root[sizemode="fullscreen"] .browserStack > browser {
@@ -1048,9 +1043,7 @@ toolbar:not(#TabsToolbar) #new-tab-button > .toolbarbutton-icon,
 }
 
 .browserStack > browser {
-	margin-bottom: 22px !important;
-	box-shadow: inset -1px -1px 0 ThreeDHighlight, inset 1px 1px 0 ThreeDShadow, inset -2px -2px 0 ThreeDFace, inset 2px 2px 0 ThreeDDarkShadow !important;
-	padding: 2px !important;
+	margin-bottom: 22px;
 }
 
 #searchbar {
@@ -1133,7 +1126,7 @@ toolbarspacer {
 }
 
 .tabbrowser-tab:first-of-type:last-of-type {
-		max-width: 300px !important;
+	max-width: 300px !important;
 }
 
 #context-navigation {
