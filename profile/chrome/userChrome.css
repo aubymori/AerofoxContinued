@@ -1037,8 +1037,14 @@ toolbar:not(#TabsToolbar) #new-tab-button > .toolbarbutton-icon,
 	left: 2px;
 }
 
+:root[sizemode="fullscreen"] #statuspanel
+{
+	display: none !important;
+}
+
 :root[sizemode="fullscreen"] .browserStack > browser {
 	padding: 0 !important;
+	margin: 0 !important;
 	box-shadow: none !important;
 }
 
