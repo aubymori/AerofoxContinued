@@ -1,13 +1,13 @@
-# Aerofox is now discontinued, as I feel I can no longer use 8.1 without issues due to a PC hardware upgrade. If you would like to fork it, you can, as long as you credit me and Travis.
-
 <p align="center">
-  <img src="https://github.com/NWinXP/Aerofox/blob/main/images/aerofox_project_logo-small.png" />
+  <img src="images/aerofox_project_logo-small.png" alt="Aerofox Continued">
 </p>
 
 ---
-Aerofox is a userchrome.css modification that (almost) pixel-perfectly replicates the look and feel of Internet Explorer version 8 (which shipped with Windows 7) on Firefox 108-109.
+Aerofox Continued is a userChrome.css modification that aims to replicates the look and feel of Internet Explorer version 8 (which shipped with Windows 7) on Firefox 108-109.
 
-Reminder that the code is very, VERY messy. Things **WILL** break with newer Firefox releases.
+## Notes
+
+
 
 Based on and inspired by 07Fox, the work of [travis](https://github.com/travy-patty) on the WinClassic forums, go check out his amazing theme over [here](https://winclassic.boards.net/thread/1524/07fox-internet-explorer-mozilla-firefox "here")!
 
@@ -17,25 +17,25 @@ While you may be able to use the theme on macOS, Linux, and BSD, it will not fun
 No support is planned for Windows 11, either.**
 
 **Tested on:**  
-- Windows Vista SP2 x64 (with Extended Kernel by win32)  
-- Windows 7 SP1 x64  
-- Windows 8.0 x64  
-- Windows 8.0 x64 with Aero Glass DWM hack  
-- Windows 8.1 x64 with Aero Glass DWM hack  
-- Windows 8.1 x64  
-- Windows 10 (Version 20h2) x64 with Stardock WindowBlinds 11
-- Windows 11 (Version 22h2) x64 with Stardock WindowBlinds 11
+- ~~Windows Vista SP2 x64 (with Extended Kernel by win32)~~
+- ~~Windows 7 SP1 x64~~
+- ~~Windows 8.0 x64~~
+- ~~Windows 8.0 x64 with Aero Glass DWM hack~~
+- Windows 8.1 x64 with Aero Glass DWM hack
+- ~~Windows 8.1 x64~~
+- ~~Windows 10 (Version 20H2) x64 with Stardock WindowBlinds 11~~
+- ~~Windows 11 (Version 22H2) x64 with Stardock WindowBlinds 11~~
+
+*Operating systems that are crossed out have only been tested on the original Aerofox, and may have bugs with Aerofox Continued.*
 
 ## Screenshots
-Windows 8.1 with Aero Glass DWM hack
-![](https://github.com/NWinXP/Aerofox/blob/main/images/ScreenshotW8.1.png)
-Windows 7 with Aero Basic theme (DWM off)
-![](https://user-images.githubusercontent.com/65573067/214447822-999de0a3-98cd-4eef-88d0-5a8edee1fc79.png)
+Windows 8.1 with Aero Glass DWM hack (Windows 8 Consumer Preview theme)
+![Aerofox Continued on Windows 8.1 with the Consumer Preview theme](images/screenshot_aero_cp.png)
 
 
 
 ## Download
-Go to the [releases](https://github.com/NWinXP/Aerofox/releases "releases") page and download the linked .ZIP file.
+If you have Git installed, type `git clone https://github.com/aubymori/AerofoxContinued` on the command line, in the directory of your choosing. If not, [Install Git](https://git-scm.com/download/win), and then do that.
 
 ## FAQ
 - **Why would anyone want to make/use this? What is wrong with you?**  

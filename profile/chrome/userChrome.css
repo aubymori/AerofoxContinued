@@ -83,7 +83,7 @@ menu, menuitem, menucaption {
 
 #toolbar-menubar {
 	-moz-appearance: none !important;
-	background: linear-gradient(to bottom, #f2f7fd 0%,#e3eefb 100%) !important;
+	background: linear-gradient(to bottom, #fefeff 0%,#e5eaf5 50%, #d4dbed 50%, #e1e6f6 100%) !important;
 }
 
 #PersonalToolbar {
@@ -987,18 +987,6 @@ toolbar:not(#TabsToolbar) #new-tab-button > .toolbarbutton-icon,
 	margin-right: 10px !important;
 }
 
-#ublock0_raymondhill_net-BAP {
- transform: translateY(-2px) !important;
-}
-
-#ublock0_raymondhill_net-BAP::after {
-	content: 'uBlock Origin'; 
-	display: inline-block;
-	line-height: 25px;
-	margin-inline: 0px !important;
-	margin-right: 5px !important;
-}
-
 /* Status Bar */
 #statuspanel[inactive],
 #statuspanel {
@@ -1118,17 +1106,6 @@ toolbarspacer {
 	width: 5px !important;
 }
 
-menupopup {
-	appearance: none !important;
-	padding: 1px !important;
-}
-
-menuseparator {
-	appearance: none !important;
-	padding: 0 !important;
-	margin-block: 2px !important;
-}
-
 #PlacesToolbarItems {
 	min-width: 0px !important;
 	width: 0px !important;
@@ -1161,6 +1138,7 @@ menuseparator {
 
 #context-navigation {
 	-moz-box-orient: vertical !important;
+	background: none !important;
 }
 
 #context-navigation menuitem {
@@ -1174,6 +1152,11 @@ menuseparator {
 	margin: 0 !important;
 	margin-right: 8px !important;
 	margin-left: 5px !important;
+}
+
+#context-navigation .menu-iconic-left
+{
+	min-width: 31px !important;
 }
 
 #context-navigation menuitem::before {
