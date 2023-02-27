@@ -1,5 +1,4 @@
-## Aerofox is now discontinued, as I feel I can no longer use 8.1 without issues due to a PC hardware upgrade.
-## If you would like to fork it, you can, as long as you credit me and Travis.
+# Aerofox is now discontinued, as I feel I can no longer use 8.1 without issues due to a PC hardware upgrade. If you would like to fork it, you can, as long as you credit me and Travis.
 
 <p align="center">
   <img src="https://github.com/NWinXP/Aerofox/blob/main/images/aerofox_project_logo-small.png" />
