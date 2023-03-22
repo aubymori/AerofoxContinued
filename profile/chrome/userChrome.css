@@ -337,8 +337,17 @@ toolbarpaletteitem[place="toolbar"][id^="wrapper-customizableui-special-spring"]
 	content: url('blank-page.png') !important;
 }
 
+.tabbrowser-tab[busy] .tab-icon-image {
+	content: url('spinner.png') !important;
+}
+
 .tab-throbber:not([pinned]), .tab-icon-pending:not([pinned]), .tab-icon-image:not([pinned]), .tab-sharing-icon-overlay:not([pinned]), .tab-icon-overlay:not([pinned]) {
 	margin-inline-end: 3px !important;
+}
+
+.tab-throbber[busy] {
+	background-image: url('spinner.png') !important;
+	opacity: 1 !important;
 }
 
 #tabbrowser-tabs:not([secondarytext-unsupported]) .tab-label-container {
@@ -1305,4 +1314,8 @@ toolbarspacer {
 .customizationmode-button {
 	appearance: button !important;
 	color: -moz-DialogText !important;
+}
+
+#navigator-toolbox:-moz-lwtheme {
+	background-color: transparent !important;
 }
