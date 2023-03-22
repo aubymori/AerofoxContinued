@@ -21,6 +21,7 @@ No support is planned for Windows 11, either.**
 - ~~Windows 8.1 x64~~
 - ~~Windows 10 (Version 20H2) x64 with Stardock WindowBlinds 11~~
 - ~~Windows 11 (Version 22H2) x64 with Stardock WindowBlinds 11~~
+- Windows 10 (Version 1809) x64 with BasicThemer3
 
 *Operating systems that are crossed out have only been tested on the original Aerofox, and may have bugs with Aerofox Continued.*
 
